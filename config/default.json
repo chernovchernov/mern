@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "boris youtube mern",
+  "mongoUri": "mongodb+srv://boris:1234mern@cluster0.gajo2ur.mongodb.net/?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
